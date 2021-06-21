@@ -1,0 +1,5 @@
+﻿  luac.c
+E:\workspace\lua-5.1.5\src\luac.c(44,63): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\workspace\lua-5.1.5\src\luac.c(175,38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+lua.obj : warning LNK4006: main 已在 luac.obj 中定义；已忽略第二个定义
+  lua.vcxproj -> E:\workspace\lua-5.1.5\build\Debug\lua.lib

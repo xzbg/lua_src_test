@@ -1,0 +1,33 @@
+﻿  Building Custom Rule E:/workspace/lua-5.1.5/src/CMakeLists.txt
+  lua.c
+E:\workspace\lua-5.1.5\src\lua.c(324,22): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+lua.lib(lstate.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lapi.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ldebug.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lauxlib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(linit.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ltm.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lmem.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ldo.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lfunc.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lgc.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(llex.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lstring.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ltable.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lobject.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lzio.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ldump.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lvm.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lopcodes.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lbaselib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ltablib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(liolib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(loslib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lstrlib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lmathlib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(ldblib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(loadlib.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lparser.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lundump.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua.lib(lcode.obj) : warning LNK4204: “E:\workspace\lua-5.1.5\build\Debug\lua.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  luaexec.vcxproj -> E:\workspace\lua-5.1.5\build\Debug\lua.exe
